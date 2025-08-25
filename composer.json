@@ -1,5 +1,5 @@
 {
-    "name": "brbrunobr/krayin-rest-api"
+    "name": "brbrunobr/krayin-rest-api",
     "license": "MIT",
     "authors": [
         {
@@ -22,5 +22,6 @@
             ]
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
